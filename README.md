@@ -11,6 +11,9 @@ To Write a C program to implement a symbol table.
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM:
+NAME: PRAVEEN.V
+
+REGISTER NO: 212222233004
 
 ```
 #include<stdio.h>
